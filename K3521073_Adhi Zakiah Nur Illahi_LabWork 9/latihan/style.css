@@ -1,0 +1,27 @@
+* {
+    margin: 0 ;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.footer {
+    height: 17vh;
+}
+
+.main .container-fluid,
+.row,
+.col {
+    height: 100%;
+}
+
+.main {
+    height: 70vh;
+}
+
+.min-vh-50 {
+    height: 50%;
+}
+
+.navbar {
+    height: 100%;
+}
